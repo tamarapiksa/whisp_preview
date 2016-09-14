@@ -1,0 +1,23 @@
+.fade {
+	padding-top: 30px;
+}
+
+img {
+	height: 500px;
+	padding-left: 38%;
+}
+
+button.slick-next.slick-arrow {
+	background: darkgray;
+	right: 390px;
+	padding-top: 1px;
+	border-radius: 10px;
+
+}
+
+button.slick-prev.slick-arrow {
+	left: 364px;
+	background: darkgray;
+	padding-top: 1px;
+	border-radius: 10px;
+}
