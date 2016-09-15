@@ -26,6 +26,7 @@ button.slick-prev.slick-arrow {
 
 	body {
 		padding-left: 0;
+		max-width: 376px;
 	}
 
 	button.slick-prev.slick-arrow {
