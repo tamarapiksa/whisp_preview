@@ -21,3 +21,23 @@ button.slick-prev.slick-arrow {
 	padding-top: 1px;
 	border-radius: 10px;
 }
+
+@media only screen and (max-width : 1160px)  {
+
+	body {
+		padding-left: 0;
+	}
+
+	button.slick-prev.slick-arrow {
+		left: 10px;
+	}
+
+	button.slick-next.slick-arrow {
+		right: 11px;
+	}
+
+	img {
+		padding-left: 9%;
+	}
+
+}
